@@ -1,0 +1,20 @@
+h1{
+    color:peru;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+h2{
+    color:pink;
+    font-family: 'Shantell Sans', cursive;
+    text-align: right;
+}
+h3{
+    color:blue;
+}
+h4{
+    color:purple;
+    background-color: white;
+}
+body{
+    background-color: yellow;
+}
